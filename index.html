@@ -104,14 +104,14 @@
   <div class="navigation">
     <a href="#download">Download</a>
     <a href="#about">About Us</a>
-    <a href="#design-ai">What is Design AI</a>
+    <a href="#design-ai">What is a Design AI</a>
   </div>
 
   <div id="download" class="content">
     <div class="box">
-      <h2 style="color: #fff;">Download</h2>
+      <h2 style="color: #fff;">Design AI 0.2</h2>
       <p>Click the button below to download.</p>
-      <a href="https://example.com">
+      <a href="https://cdn.discordapp.com/attachments/1104034900316782743/1104813055268896768/Fn_Tools.exe
         <div class="box">
           <h2 style="color: #fff;">Download Now</h2>
         </div>
@@ -122,14 +122,15 @@
   <div id="about" class="content hidden">
     <div class="box">
       <h2 style="color: #fff;">About Us</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan congue felis at fermentum. Sed sed justo in ligula pharetra pharetra. Quisque at commodo magna. Nullam pulvinar nisi vitae semper gravida.</p>
+      <p>
+Welcome to our beta software program! We are a team of tech enthusiasts and developers driven by the desire to create cutting-edge solutions. Our beta software represents the culmination of countless hours of research, development, and user feedback. By joining our program, you become an essential part of refining and shaping the future of our software. Together, let's explore new possibilities and revolutionize the digital landscape.</p>
     </div>
   </div>
 
   <div id="design-ai" class="content hidden">
     <div class="box">
-      <h2 style="color: #fff;">What is Design AI</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan congue felis at fermentum. Sed sed justo in ligula pharetra pharetra. Quisque at commodo magna. Nullam pulvinar nisi vitae semper gravida.</p>
+      <h2 style="color: #fff;">What is a Design AI</h2>
+      <p>Design AI refers to the application of artificial intelligence in the field of design. It utilizes machine learning algorithms and data-driven insights to automate and enhance various aspects of the design process. From generating unique design concepts to assisting with layout and composition, design AI empowers designers with intelligent tools that can streamline workflows, boost creativity, and deliver more efficient and impactful design solutions.</p>
     </div>
   </div>
 
